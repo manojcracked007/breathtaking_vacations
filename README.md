@@ -1,1 +1,3 @@
 # breathtaking_vacations
+PURE CSS RESPONSIVE DESIGN
+IMPLEMENTED BY SASS
